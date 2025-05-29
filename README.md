@@ -5,7 +5,7 @@ BMC Alliance Recruiting and Tracking: full lifecycle partner management from app
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -30,7 +30,7 @@ My team and I managed hundreds of technology partners at BMC Software, coaching 
 
 ### Screenshot
 
-![]([http://127.0.0.1:5501/src/Screenshot-ISV.png])
+![]([https://fiel.us/src/Screenshot-ISV.png])
 
 ## My process
 
