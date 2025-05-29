@@ -5,7 +5,6 @@ BMC Alliance Recruiting and Tracking: full lifecycle partner management from app
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -27,10 +26,6 @@ My team and I managed hundreds of technology partners at BMC Software, coaching 
 - The system was also integrated into the BMC Community site via REST API, in order to provide a partnership and integrated product directory. All directory details (name, description, URL, contact, logo, etc.) were stored in ART and pushed to the Community automatically. This gave us consistent formatting with updated links between pages without the need for partner managers to be CMS experts.
 - Interested customers can download more details on partner integrations (https://developer.bmc.com/ar/inote.jsp), which automatically provides lead details to the partner and BMC sales.
 - Built-in reporting provided easy access to full partner details for status updates and annual partnership renewals.
-
-### Screenshot
-
-![]([https://fiel.us/src/Screenshot-ISV.png])
 
 ## My process
 
